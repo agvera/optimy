@@ -1,3 +1,5 @@
+Given the time constraints. I only managed to come-up with a very brief guide and only covers Mac OS 
+
 Pre-requisite: You need the following installed in your system
 1. Python3 (download here: https://www.python.org/download/releases/3.0/)
 2. Robot Framework, Selenium2Library, WebdriverManager
