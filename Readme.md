@@ -23,7 +23,7 @@ To install git:
 4. To verify if you have installed git, type "git --version" and the terminal should display the git version installed in your system
 
 To clone this repository
-1. In your terminal, type: 
+1. In your terminal, type: https://github.com/agvera/optimy.git
 2. Wait for the download to finish
 
 How to execute:
